@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "172046923174",
+    "project_id": "crud-firebase-kotlin-51b5c",
+    "storage_bucket": "crud-firebase-kotlin-51b5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172046923174:android:40cb8a28b035c9d6c6cb67",
+        "android_client_info": {
+          "package_name": "com.shinta.crud_firebase_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172046923174-jrbt8rvucclcc2ldeblmuo655tugsei6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB19PO3cSghINMeXUPWeYzn34FgNTcewlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172046923174-jrbt8rvucclcc2ldeblmuo655tugsei6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
